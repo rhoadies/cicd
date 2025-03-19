@@ -11,6 +11,8 @@
     "lint": "eslint ."
   },
   "devDependencies": {
+    "eslint": "^9.22.0",
+    "jest": "^27.0.6",
     "vite": "^6.2.0"
   }
 }
